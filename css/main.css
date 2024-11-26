@@ -1,3 +1,10 @@
+@font-face {
+    font-family:'Magenta';
+    src:url('../recursos/Magenta.ttf') format('Magenta');
+    font-weight: normal;
+    font-style: normal;
+}
+
 h1, img {
     vertical-align: middle;
     display: inline-block;
