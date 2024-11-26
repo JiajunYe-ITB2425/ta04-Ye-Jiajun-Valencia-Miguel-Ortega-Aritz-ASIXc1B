@@ -1,3 +1,10 @@
+@font-face {
+    src: url('/imagenes/Magenta.ttf') format('truetype');
+    font-family: 'Magenta';
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     font-family:'Courier New', Courier, monospace;
 }
